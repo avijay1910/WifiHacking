@@ -23,16 +23,7 @@
   will not function properly.
 
 
-### ✅ Recommended WiFi Adapters (Monitor Mode + Packet Injection Support)
 
-| WiFi Adapter | Chipset | Monitor Mode | Packet Injection | Notes |
-|--------------|---------|---------------|-------------------|-------|
-| **Alfa AWUS036NHA** | Atheros AR9271 | ✅ | ✅ | One of the most recommended for Kali Linux |
-| **Alfa AWUS036NH**  | Ralink RT3070  | ✅ | ✅ | Good range, stable |
-| **TP-Link TL-WN722N** (v1 only) | Atheros AR9271 | ✅ | ✅ | Make sure to get **version 1** only |
-| **Panda Wireless PAU06** | Ralink RT5372 | ✅ | ✅ | Works well out-of-the-box with Kali |
-| **Alfa AWUS036ACH** | Realtek RTL8812AU | ✅ | ✅ | 5GHz support, may need driver install |
-| **ASUS USB-AC68** | Realtek RTL8814AU | ✅ | ✅ | Powerful but may require manual driver setup |
 
 
 
@@ -83,7 +74,7 @@ sudo apt-get install dnsmasq
 Clone the repository:
 
 ```bash
-git clone https://github.com/karthi-the-hacker/WIFIHacker.git
+git clone https://github.com/avijay1910/WifiHacking.git
 cd WIFIHacker
 ```
 
@@ -112,8 +103,8 @@ Example output
 ██║███╗██║██║██╔══╝  ██║██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
 ╚███╔███╔╝██║██║     ██║██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
  ╚══╝╚══╝ ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-                                                    Author: @karthithehacker
-                                                Website: Karthithehacker.com     
+                                                    Author: @vVijay1910
+                                                
 ```
 
 From the menu, choose the attack you want:
