@@ -173,13 +173,6 @@ The `/login` endpoint receives credentials from fake Wi-Fi login pages (template
 
 ## 👨‍💻 Author
 
-- Website: [karthithehacker.com](https://karthithehacker.com)
-- GitHub: [@karthi-the-hacker](https://github.com/karthi-the-hacker)
+- GitHub: https://github.com/avijay1910
 
----
-
-## ⚠️ Disclaimer
-
-This tool is made for **educational and ethical purposes only**.  
-Unauthorized access to networks is illegal. The developer is not responsible for any misuse.
 
